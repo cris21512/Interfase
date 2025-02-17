@@ -1,0 +1,13 @@
+.phase1 {
+    background-image: url("https://i.pinimg.com/originals/94/d0/17/94d0177a127a7f2f90a9ffb76897afda.jpg");
+    background-size: cover;
+    background-position: center;
+    filter: blur(3px);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
